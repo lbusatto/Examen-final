@@ -1,0 +1,38 @@
+Column,Definition
+Marital status,Marital Status
+Application mode,How to get to the university
+Application order,Order of preference or choice
+Course,
+"Daytime/evening attendance	",Day or night shift
+Previous qualification,Education Level
+Previous qualification (grade),Education Level
+Mother's qualification,Education Level
+Father's qualification,Education Level
+Mother's occupation,Education Level
+Father's occupation,Education Level
+Nacionality,
+Admission grade,Qualification
+Displaced,Flag
+Educational special needs,Flag
+Debtor,Flag
+Tuition fees up to date,Flag
+Gender,Male (1) or Female (0)
+Scholarship holder,Flag
+Age at enrollment,
+International,(1) international
+Curricular units 1st sem (credited),Number of curricular units credited
+Curricular units 1st sem (enrolled),Number of curricular units credited
+Curricular units 1st sem (evaluations),Number of curricular units credited
+Curricular units 1st sem (approved),Number of curricular units credited
+Curricular units 1st sem (grade),Number of curricular units credited
+Curricular units 1st sem (without evaluations),Number of curricular units credited
+Curricular units 2nd sem (credited),Number of curricular units credited
+Curricular units 2nd sem (enrolled),Number of curricular units credited
+Curricular units 2nd sem (evaluations),Number of curricular units credited
+Curricular units 2nd sem (approved),Number of curricular units credited
+Curricular units 2nd sem (grade),Number of curricular units credited
+Curricular units 2nd sem (without evaluations),Number of curricular units credited
+Unemployment rate,In percentage
+Inflation rate,In percentage
+GDP,GDP
+Target,"Target. Three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course"
